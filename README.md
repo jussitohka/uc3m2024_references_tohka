@@ -109,4 +109,8 @@ Slide 21: Franke K and Gaser C (2019) Ten Years of BrainAGE as a Neuroimaging Bi
 
 Slide 22: Rutherford S, Fraza C, Dinga R, Kia SM, Wolfers T, Zabihi M, Berthet P, Worker A, Verdi S, Andrews D, Han LK, Bayer JM, Dazzan P, McGuire P, Mocking RT, Schene A, Sripada C, Tso IF, Duval ER, Chang SE, Penninx BW, Heitzeg MM, Burt SA, Hyde LW, Amaral D, Wu Nordahl C, Andreasssen OA, Westlye LT, Zahn R, Ruhe HG, Beckmann C, Marquand AF. Charting brain growth and aging at high spatial precision. Elife. 2022 Feb 1;11:e72904. doi: 10.7554/eLife.72904. PMID: 35101172; PMCID: PMC8828052.
 
+Slide 24: Tohka and van Gils: Evaluation of machine learning algorithms for Health and Wellness applications:  a tutorial, Computers in Biology and Medicine 2021.
+
+
+
 Slide 23: 
