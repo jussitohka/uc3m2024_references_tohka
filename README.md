@@ -95,8 +95,18 @@ B. (2019). A novel joint hcpmmp method for automatically classifying
 alzheimer’s and different stage mci patients. Behavioural brain research,
 365 , 210–221
 
-Slide 20: 
- 
-Slide 13: Franke K and Gaser C (2019) Ten Years of BrainAGE as a Neuroimaging Biomarker of Brain Aging: What Insights Have We Gained? Front. Neurol. 10:789. doi: 10.3389/fneur.2019.00789
+Slide 20: Johnson WE, Li C, Rabinovic A. Adjusting batch effects in microarray expression data using
+empirical Bayes methods. Biostatistics. 2007;8(1):118-127. doi:10.1093/biostatistics/kxj037
 
-Slide 14: Rutherford S, Fraza C, Dinga R, Kia SM, Wolfers T, Zabihi M, Berthet P, Worker A, Verdi S, Andrews D, Han LK, Bayer JM, Dazzan P, McGuire P, Mocking RT, Schene A, Sripada C, Tso IF, Duval ER, Chang SE, Penninx BW, Heitzeg MM, Burt SA, Hyde LW, Amaral D, Wu Nordahl C, Andreasssen OA, Westlye LT, Zahn R, Ruhe HG, Beckmann C, Marquand AF. Charting brain growth and aging at high spatial precision. Elife. 2022 Feb 1;11:e72904. doi: 10.7554/eLife.72904. PMID: 35101172; PMCID: PMC8828052.
+Fortin J-P, Cullen N, Sheline YI, et al. Harmonization of cortical thickness measurements across
+scanners and sites. Neuroimage. 2018;167:104-120. doi:10.1016/j.neuroimage.2017.11.024
+
+Orlhac F, Nioche C, Klyuzhin I, Rahmim A, Buvat I. Radiomics in PET Imaging:: A Practical Guide for Newcomers. PET Clin. 2021 Oct;16(4):597-612. doi: 10.1016/j.cpet.2021.06.007. PMID: 34537132.
+
+Orlhac F, Eertink JJ, Cottereau AS, Zijlstra JM, Thieblemont C, Meignan M, Boellaard R, Buvat I. A Guide to ComBat Harmonization of Imaging Biomarkers in Multicenter Studies. J Nucl Med. 2022 Feb;63(2):172-179. doi: 10.2967/jnumed.121.262464. Epub 2021 Sep 16. PMID: 34531263; PMCID: PMC8805779.
+ 
+Slide 21: Franke K and Gaser C (2019) Ten Years of BrainAGE as a Neuroimaging Biomarker of Brain Aging: What Insights Have We Gained? Front. Neurol. 10:789. doi: 10.3389/fneur.2019.00789
+
+Slide 22: Rutherford S, Fraza C, Dinga R, Kia SM, Wolfers T, Zabihi M, Berthet P, Worker A, Verdi S, Andrews D, Han LK, Bayer JM, Dazzan P, McGuire P, Mocking RT, Schene A, Sripada C, Tso IF, Duval ER, Chang SE, Penninx BW, Heitzeg MM, Burt SA, Hyde LW, Amaral D, Wu Nordahl C, Andreasssen OA, Westlye LT, Zahn R, Ruhe HG, Beckmann C, Marquand AF. Charting brain growth and aging at high spatial precision. Elife. 2022 Feb 1;11:e72904. doi: 10.7554/eLife.72904. PMID: 35101172; PMCID: PMC8828052.
+
+Slide 23: 
